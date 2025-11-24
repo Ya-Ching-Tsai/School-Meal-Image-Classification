@@ -23,3 +23,6 @@ All classes are resampled to 457 images.
 #### Split
 Train/Test = 8 : 2
 Validation = 10% of training set
+
+
+[N26134235_蔡雅晴.pptx](https://github.com/user-attachments/files/23727390/N26134235_.pptx)
