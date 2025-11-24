@@ -24,5 +24,6 @@ All classes are resampled to 457 images.
 Train/Test = 8 : 2
 Validation = 10% of training set
 
-[Uploading school_meal_image_classification.pptx…]()
+[school_meal_image_classification.pptx](https://github.com/user-attachments/files/23727446/school_meal_image_classification.pptx)
+
 
